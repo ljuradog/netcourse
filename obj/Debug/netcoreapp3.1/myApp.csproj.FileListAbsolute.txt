@@ -1,0 +1,13 @@
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\ljura\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
+C:\Users\ljura\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
